@@ -27,7 +27,7 @@ console.log(Math.round(num1 + num2))
 let x = 7 % 3
 // console.log(x)
 
-age = 25
+// age = 25
 let scottAge = 25
 
 if (age > scottAge){
